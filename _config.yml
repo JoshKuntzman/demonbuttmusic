@@ -2,14 +2,14 @@
 # https://telar.org
 
 # Site Settings
-title: "Telar"
-description: "Telar (Spanish for 'loom') is a static site generator built on Jekyll that weaves together IIIF images, text, and layered contextual information into interactive digital narrative exhibitions. <a href='https://github.com/UCSB-AMPLab/telar'>Telar</a> is a project of <a href='https://neogranadina.org'>Neogranadina</a> and the Archives, Memory, and Preservation Labs at <a href='https://ampl.clair.ucsb.edu/'>UC Santa Barbara</a> and <a href='https://liberalarts.utexas.edu/history/'>UT Austin</a>."
+title: "Demon Butt Music"
+description: "Popular artists provide a fascinating node of discourse between radically individualistic creative daydreams about human existence and officially sanctioned hegemonic narratives about what is good/right/normal. Case in point? Hieronymous  Bosch's **Garden of Earthly Delights**. Here, we see a dreamy love of the natural world, perhaps some light agoraphobic overwhelm at pool parties, AAAND an appreciation of cacophonous indie music ~ sure, we could focus on the baked-in white Jesus iconography, the racist association of dark skins with moral corruption, or the villainization of 100% healthy and natural flatulence (signs of the times). But I'd rather focus on the creativity of his soundtrack (sounds that transcend)."
 url: "https://joshkuntzman.github.io"
 baseurl: "/demonbuttmusic"
-author: ""
-email: ""
+author: "Josh Kuntzman"
+email: "kuntzman@ucsb.edu"
 telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
-logo: "" # Path to logo image (optional, max 80px tall, 200-300px wide recommended)
+logo: ""
 telar_language: "en" # Options: "en" (English), "es" (Español)
 
 # Story Interface Settings
@@ -156,3 +156,4 @@ development-features:
   # Use this when building a site with only custom pages (no stories or objects)
   # (Backward compatible: hide_collections also supported)
   skip_collections: false
+story_key: test
